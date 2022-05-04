@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Jaswanth/IdeaProjects/SRM_STUDENT_PORTAL">
+        <classes>
+            <class name="com.srm.portal.Tests.LoginTest"></class>
+            <class name="com.srm.portal.Tests.ProfileTest"></class>
+            <class name="com.srm.portal.Tests.AcademicTest"></class>
+            <class name="com.srm.portal.Tests.ExaminationTest"></class>
+            <class name="com.srm.portal.Tests.FinanceTest"></class>
+            <class name="com.srm.portal.Tests.LogoutPortalTest"></class>
+        </classes>
+    </test>
+</suite>
